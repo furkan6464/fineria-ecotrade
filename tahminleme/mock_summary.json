@@ -1,0 +1,1010 @@
+[
+  {
+    "hour": 0,
+    "total_production": 0.0,
+    "total_consumption": 5.187155,
+    "total_net": -5.187155
+  },
+  {
+    "hour": 1,
+    "total_production": 0.0,
+    "total_consumption": 4.933665,
+    "total_net": -4.933665
+  },
+  {
+    "hour": 2,
+    "total_production": 0.0,
+    "total_consumption": 4.830261,
+    "total_net": -4.830261
+  },
+  {
+    "hour": 3,
+    "total_production": 0.0,
+    "total_consumption": 4.541346,
+    "total_net": -4.541346
+  },
+  {
+    "hour": 4,
+    "total_production": 0.0,
+    "total_consumption": 4.619554,
+    "total_net": -4.619554
+  },
+  {
+    "hour": 5,
+    "total_production": 0.0,
+    "total_consumption": 4.782769,
+    "total_net": -4.782769
+  },
+  {
+    "hour": 6,
+    "total_production": 1.189346,
+    "total_consumption": 4.591822,
+    "total_net": -3.402476
+  },
+  {
+    "hour": 7,
+    "total_production": 4.513603,
+    "total_consumption": 15.758339,
+    "total_net": -11.244736
+  },
+  {
+    "hour": 8,
+    "total_production": 6.036717,
+    "total_consumption": 14.790027,
+    "total_net": -8.75331
+  },
+  {
+    "hour": 9,
+    "total_production": 10.757679,
+    "total_consumption": 14.720869,
+    "total_net": -3.96319
+  },
+  {
+    "hour": 10,
+    "total_production": 14.732297,
+    "total_consumption": 5.271831,
+    "total_net": 9.460466
+  },
+  {
+    "hour": 11,
+    "total_production": 21.146787,
+    "total_consumption": 4.237215,
+    "total_net": 16.909573
+  },
+  {
+    "hour": 12,
+    "total_production": 23.592892,
+    "total_consumption": 4.511869,
+    "total_net": 19.081023
+  },
+  {
+    "hour": 13,
+    "total_production": 25.342599,
+    "total_consumption": 5.493202,
+    "total_net": 19.849397
+  },
+  {
+    "hour": 14,
+    "total_production": 23.131143,
+    "total_consumption": 4.26625,
+    "total_net": 18.864893
+  },
+  {
+    "hour": 15,
+    "total_production": 19.766546,
+    "total_consumption": 5.451596,
+    "total_net": 14.31495
+  },
+  {
+    "hour": 16,
+    "total_production": 15.240432,
+    "total_consumption": 5.020513,
+    "total_net": 10.219918
+  },
+  {
+    "hour": 17,
+    "total_production": 10.454115,
+    "total_consumption": 5.136321,
+    "total_net": 5.317794
+  },
+  {
+    "hour": 18,
+    "total_production": 5.531541,
+    "total_consumption": 17.700365,
+    "total_net": -12.168825
+  },
+  {
+    "hour": 19,
+    "total_production": 3.182215,
+    "total_consumption": 17.682346,
+    "total_net": -14.500131
+  },
+  {
+    "hour": 20,
+    "total_production": 1.444461,
+    "total_consumption": 17.532857,
+    "total_net": -16.088396
+  },
+  {
+    "hour": 21,
+    "total_production": 0.0,
+    "total_consumption": 17.367492,
+    "total_net": -17.367492
+  },
+  {
+    "hour": 22,
+    "total_production": 0.0,
+    "total_consumption": 17.235076,
+    "total_net": -17.235076
+  },
+  {
+    "hour": 23,
+    "total_production": 0.0,
+    "total_consumption": 4.847353,
+    "total_net": -4.847353
+  },
+  {
+    "hour": 0,
+    "total_production": 0.0,
+    "total_consumption": 5.191072,
+    "total_net": -5.191072
+  },
+  {
+    "hour": 1,
+    "total_production": 0.0,
+    "total_consumption": 4.84581,
+    "total_net": -4.84581
+  },
+  {
+    "hour": 2,
+    "total_production": 0.0,
+    "total_consumption": 5.538522,
+    "total_net": -5.538522
+  },
+  {
+    "hour": 3,
+    "total_production": 0.0,
+    "total_consumption": 4.529181,
+    "total_net": -4.529181
+  },
+  {
+    "hour": 4,
+    "total_production": 0.0,
+    "total_consumption": 5.679101,
+    "total_net": -5.679101
+  },
+  {
+    "hour": 5,
+    "total_production": 0.0,
+    "total_consumption": 5.125264,
+    "total_net": -5.125264
+  },
+  {
+    "hour": 6,
+    "total_production": 1.312259,
+    "total_consumption": 5.257124,
+    "total_net": -3.944865
+  },
+  {
+    "hour": 7,
+    "total_production": 3.664032,
+    "total_consumption": 15.285025,
+    "total_net": -11.620993
+  },
+  {
+    "hour": 8,
+    "total_production": 7.661892,
+    "total_consumption": 15.360806,
+    "total_net": -7.698914
+  },
+  {
+    "hour": 9,
+    "total_production": 9.667067,
+    "total_consumption": 14.604884,
+    "total_net": -4.937817
+  },
+  {
+    "hour": 10,
+    "total_production": 15.024893,
+    "total_consumption": 4.599146,
+    "total_net": 10.425748
+  },
+  {
+    "hour": 11,
+    "total_production": 20.757923,
+    "total_consumption": 4.565756,
+    "total_net": 16.192167
+  },
+  {
+    "hour": 12,
+    "total_production": 23.490462,
+    "total_consumption": 4.89842,
+    "total_net": 18.592042
+  },
+  {
+    "hour": 13,
+    "total_production": 25.362958,
+    "total_consumption": 4.085026,
+    "total_net": 21.277932
+  },
+  {
+    "hour": 14,
+    "total_production": 23.439402,
+    "total_consumption": 4.682388,
+    "total_net": 18.757015
+  },
+  {
+    "hour": 15,
+    "total_production": 20.484588,
+    "total_consumption": 4.934664,
+    "total_net": 15.549924
+  },
+  {
+    "hour": 16,
+    "total_production": 15.724893,
+    "total_consumption": 5.286076,
+    "total_net": 10.438818
+  },
+  {
+    "hour": 17,
+    "total_production": 10.465204,
+    "total_consumption": 4.660698,
+    "total_net": 5.804506
+  },
+  {
+    "hour": 18,
+    "total_production": 6.670777,
+    "total_consumption": 17.804457,
+    "total_net": -11.13368
+  },
+  {
+    "hour": 19,
+    "total_production": 3.190853,
+    "total_consumption": 17.855158,
+    "total_net": -14.664305
+  },
+  {
+    "hour": 20,
+    "total_production": 1.668452,
+    "total_consumption": 17.738523,
+    "total_net": -16.070072
+  },
+  {
+    "hour": 21,
+    "total_production": 0.0,
+    "total_consumption": 18.000853,
+    "total_net": -18.000853
+  },
+  {
+    "hour": 22,
+    "total_production": 0.0,
+    "total_consumption": 16.980547,
+    "total_net": -16.980547
+  },
+  {
+    "hour": 23,
+    "total_production": 0.0,
+    "total_consumption": 4.856113,
+    "total_net": -4.856113
+  },
+  {
+    "hour": 0,
+    "total_production": 0.0,
+    "total_consumption": 4.446308,
+    "total_net": -4.446308
+  },
+  {
+    "hour": 1,
+    "total_production": 0.0,
+    "total_consumption": 5.108557,
+    "total_net": -5.108557
+  },
+  {
+    "hour": 2,
+    "total_production": 0.0,
+    "total_consumption": 5.594577,
+    "total_net": -5.594577
+  },
+  {
+    "hour": 3,
+    "total_production": 0.0,
+    "total_consumption": 5.029214,
+    "total_net": -5.029214
+  },
+  {
+    "hour": 4,
+    "total_production": 0.0,
+    "total_consumption": 4.667452,
+    "total_net": -4.667452
+  },
+  {
+    "hour": 5,
+    "total_production": 0.0,
+    "total_consumption": 4.346311,
+    "total_net": -4.346311
+  },
+  {
+    "hour": 6,
+    "total_production": 2.250249,
+    "total_consumption": 4.827207,
+    "total_net": -2.576958
+  },
+  {
+    "hour": 7,
+    "total_production": 3.619365,
+    "total_consumption": 15.258207,
+    "total_net": -11.638842
+  },
+  {
+    "hour": 8,
+    "total_production": 6.553294,
+    "total_consumption": 14.971702,
+    "total_net": -8.418407
+  },
+  {
+    "hour": 9,
+    "total_production": 10.156257,
+    "total_consumption": 15.64296,
+    "total_net": -5.486703
+  },
+  {
+    "hour": 10,
+    "total_production": 15.064938,
+    "total_consumption": 5.620325,
+    "total_net": 9.444613
+  },
+  {
+    "hour": 11,
+    "total_production": 20.368734,
+    "total_consumption": 6.059324,
+    "total_net": 14.309411
+  },
+  {
+    "hour": 12,
+    "total_production": 23.465603,
+    "total_consumption": 4.694115,
+    "total_net": 18.771488
+  },
+  {
+    "hour": 13,
+    "total_production": 25.894059,
+    "total_consumption": 5.447098,
+    "total_net": 20.446961
+  },
+  {
+    "hour": 14,
+    "total_production": 24.207699,
+    "total_consumption": 5.057674,
+    "total_net": 19.150025
+  },
+  {
+    "hour": 15,
+    "total_production": 20.098683,
+    "total_consumption": 5.164125,
+    "total_net": 14.934558
+  },
+  {
+    "hour": 16,
+    "total_production": 14.541334,
+    "total_consumption": 3.874111,
+    "total_net": 10.667223
+  },
+  {
+    "hour": 17,
+    "total_production": 10.380361,
+    "total_consumption": 4.428198,
+    "total_net": 5.952163
+  },
+  {
+    "hour": 18,
+    "total_production": 5.629995,
+    "total_consumption": 17.596261,
+    "total_net": -11.966266
+  },
+  {
+    "hour": 19,
+    "total_production": 3.158623,
+    "total_consumption": 17.230908,
+    "total_net": -14.072285
+  },
+  {
+    "hour": 20,
+    "total_production": 2.715737,
+    "total_consumption": 16.959349,
+    "total_net": -14.243612
+  },
+  {
+    "hour": 21,
+    "total_production": 0.0,
+    "total_consumption": 16.755028,
+    "total_net": -16.755028
+  },
+  {
+    "hour": 22,
+    "total_production": 0.0,
+    "total_consumption": 17.843293,
+    "total_net": -17.843293
+  },
+  {
+    "hour": 23,
+    "total_production": 0.0,
+    "total_consumption": 4.97285,
+    "total_net": -4.97285
+  },
+  {
+    "hour": 0,
+    "total_production": 0.0,
+    "total_consumption": 4.611209,
+    "total_net": -4.611209
+  },
+  {
+    "hour": 1,
+    "total_production": 0.0,
+    "total_consumption": 5.153835,
+    "total_net": -5.153835
+  },
+  {
+    "hour": 2,
+    "total_production": 0.0,
+    "total_consumption": 4.008709,
+    "total_net": -4.008709
+  },
+  {
+    "hour": 3,
+    "total_production": 0.0,
+    "total_consumption": 4.675988,
+    "total_net": -4.675988
+  },
+  {
+    "hour": 4,
+    "total_production": 0.0,
+    "total_consumption": 5.223284,
+    "total_net": -5.223284
+  },
+  {
+    "hour": 5,
+    "total_production": 0.0,
+    "total_consumption": 5.168008,
+    "total_net": -5.168008
+  },
+  {
+    "hour": 6,
+    "total_production": 1.817301,
+    "total_consumption": 4.827958,
+    "total_net": -3.010656
+  },
+  {
+    "hour": 7,
+    "total_production": 2.857176,
+    "total_consumption": 14.421943,
+    "total_net": -11.564767
+  },
+  {
+    "hour": 8,
+    "total_production": 6.314431,
+    "total_consumption": 15.052891,
+    "total_net": -8.73846
+  },
+  {
+    "hour": 9,
+    "total_production": 10.719297,
+    "total_consumption": 14.783635,
+    "total_net": -4.064337
+  },
+  {
+    "hour": 10,
+    "total_production": 15.768068,
+    "total_consumption": 4.992682,
+    "total_net": 10.775386
+  },
+  {
+    "hour": 11,
+    "total_production": 19.699369,
+    "total_consumption": 5.378596,
+    "total_net": 14.320773
+  },
+  {
+    "hour": 12,
+    "total_production": 23.731283,
+    "total_consumption": 5.292619,
+    "total_net": 18.438664
+  },
+  {
+    "hour": 13,
+    "total_production": 24.931177,
+    "total_consumption": 4.88187,
+    "total_net": 20.049307
+  },
+  {
+    "hour": 14,
+    "total_production": 23.768381,
+    "total_consumption": 5.209794,
+    "total_net": 18.558587
+  },
+  {
+    "hour": 15,
+    "total_production": 19.727238,
+    "total_consumption": 5.182524,
+    "total_net": 14.544714
+  },
+  {
+    "hour": 16,
+    "total_production": 15.006333,
+    "total_consumption": 4.980147,
+    "total_net": 10.026186
+  },
+  {
+    "hour": 17,
+    "total_production": 10.98051,
+    "total_consumption": 4.457868,
+    "total_net": 6.522642
+  },
+  {
+    "hour": 18,
+    "total_production": 5.984501,
+    "total_consumption": 17.264574,
+    "total_net": -11.280073
+  },
+  {
+    "hour": 19,
+    "total_production": 3.024219,
+    "total_consumption": 17.351127,
+    "total_net": -14.326908
+  },
+  {
+    "hour": 20,
+    "total_production": 1.863203,
+    "total_consumption": 17.278082,
+    "total_net": -15.414879
+  },
+  {
+    "hour": 21,
+    "total_production": 0.0,
+    "total_consumption": 16.797912,
+    "total_net": -16.797912
+  },
+  {
+    "hour": 22,
+    "total_production": 0.0,
+    "total_consumption": 17.55684,
+    "total_net": -17.55684
+  },
+  {
+    "hour": 23,
+    "total_production": 0.0,
+    "total_consumption": 5.122826,
+    "total_net": -5.122826
+  },
+  {
+    "hour": 0,
+    "total_production": 0.0,
+    "total_consumption": 4.533304,
+    "total_net": -4.533304
+  },
+  {
+    "hour": 1,
+    "total_production": 0.0,
+    "total_consumption": 4.56807,
+    "total_net": -4.56807
+  },
+  {
+    "hour": 2,
+    "total_production": 0.0,
+    "total_consumption": 4.596022,
+    "total_net": -4.596022
+  },
+  {
+    "hour": 3,
+    "total_production": 0.0,
+    "total_consumption": 4.347252,
+    "total_net": -4.347252
+  },
+  {
+    "hour": 4,
+    "total_production": 0.0,
+    "total_consumption": 5.584071,
+    "total_net": -5.584071
+  },
+  {
+    "hour": 5,
+    "total_production": 0.0,
+    "total_consumption": 4.395787,
+    "total_net": -4.395787
+  },
+  {
+    "hour": 6,
+    "total_production": 1.501497,
+    "total_consumption": 4.772974,
+    "total_net": -3.271477
+  },
+  {
+    "hour": 7,
+    "total_production": 2.948869,
+    "total_consumption": 15.424843,
+    "total_net": -12.475974
+  },
+  {
+    "hour": 8,
+    "total_production": 6.26416,
+    "total_consumption": 15.210033,
+    "total_net": -8.945873
+  },
+  {
+    "hour": 9,
+    "total_production": 9.482702,
+    "total_consumption": 14.851654,
+    "total_net": -5.368953
+  },
+  {
+    "hour": 10,
+    "total_production": 15.578805,
+    "total_consumption": 4.4318,
+    "total_net": 11.147005
+  },
+  {
+    "hour": 11,
+    "total_production": 19.12736,
+    "total_consumption": 4.948577,
+    "total_net": 14.178783
+  },
+  {
+    "hour": 12,
+    "total_production": 23.63788,
+    "total_consumption": 4.882978,
+    "total_net": 18.754902
+  },
+  {
+    "hour": 13,
+    "total_production": 25.378953,
+    "total_consumption": 5.296666,
+    "total_net": 20.082287
+  },
+  {
+    "hour": 14,
+    "total_production": 23.249486,
+    "total_consumption": 5.383259,
+    "total_net": 17.866226
+  },
+  {
+    "hour": 15,
+    "total_production": 20.648105,
+    "total_consumption": 5.109073,
+    "total_net": 15.539032
+  },
+  {
+    "hour": 16,
+    "total_production": 14.873482,
+    "total_consumption": 6.005587,
+    "total_net": 8.867896
+  },
+  {
+    "hour": 17,
+    "total_production": 10.391826,
+    "total_consumption": 4.67507,
+    "total_net": 5.716756
+  },
+  {
+    "hour": 18,
+    "total_production": 6.64356,
+    "total_consumption": 17.57758,
+    "total_net": -10.93402
+  },
+  {
+    "hour": 19,
+    "total_production": 3.346301,
+    "total_consumption": 18.020244,
+    "total_net": -14.673942
+  },
+  {
+    "hour": 20,
+    "total_production": 1.972095,
+    "total_consumption": 16.728322,
+    "total_net": -14.756227
+  },
+  {
+    "hour": 21,
+    "total_production": 0.0,
+    "total_consumption": 17.498406,
+    "total_net": -17.498406
+  },
+  {
+    "hour": 22,
+    "total_production": 0.0,
+    "total_consumption": 17.476931,
+    "total_net": -17.476931
+  },
+  {
+    "hour": 23,
+    "total_production": 0.0,
+    "total_consumption": 5.343018,
+    "total_net": -5.343018
+  },
+  {
+    "hour": 0,
+    "total_production": 0.0,
+    "total_consumption": 5.553773,
+    "total_net": -5.553773
+  },
+  {
+    "hour": 1,
+    "total_production": 0.0,
+    "total_consumption": 4.296086,
+    "total_net": -4.296086
+  },
+  {
+    "hour": 2,
+    "total_production": 0.0,
+    "total_consumption": 5.324265,
+    "total_net": -5.324265
+  },
+  {
+    "hour": 3,
+    "total_production": 0.0,
+    "total_consumption": 5.450622,
+    "total_net": -5.450622
+  },
+  {
+    "hour": 4,
+    "total_production": 0.0,
+    "total_consumption": 4.768405,
+    "total_net": -4.768405
+  },
+  {
+    "hour": 5,
+    "total_production": 0.0,
+    "total_consumption": 5.107369,
+    "total_net": -5.107369
+  },
+  {
+    "hour": 6,
+    "total_production": 1.510823,
+    "total_consumption": 4.744537,
+    "total_net": -3.233714
+  },
+  {
+    "hour": 7,
+    "total_production": 3.33918,
+    "total_consumption": 14.997287,
+    "total_net": -11.658107
+  },
+  {
+    "hour": 8,
+    "total_production": 6.638304,
+    "total_consumption": 15.571271,
+    "total_net": -8.932967
+  },
+  {
+    "hour": 9,
+    "total_production": 10.975609,
+    "total_consumption": 15.11597,
+    "total_net": -4.140361
+  },
+  {
+    "hour": 10,
+    "total_production": 15.543438,
+    "total_consumption": 4.894829,
+    "total_net": 10.648609
+  },
+  {
+    "hour": 11,
+    "total_production": 20.057688,
+    "total_consumption": 5.137464,
+    "total_net": 14.920224
+  },
+  {
+    "hour": 12,
+    "total_production": 23.574583,
+    "total_consumption": 4.757855,
+    "total_net": 18.816729
+  },
+  {
+    "hour": 13,
+    "total_production": 24.697321,
+    "total_consumption": 5.716185,
+    "total_net": 18.981136
+  },
+  {
+    "hour": 14,
+    "total_production": 24.239694,
+    "total_consumption": 4.887166,
+    "total_net": 19.352528
+  },
+  {
+    "hour": 15,
+    "total_production": 20.787621,
+    "total_consumption": 5.104207,
+    "total_net": 15.683414
+  },
+  {
+    "hour": 16,
+    "total_production": 14.995589,
+    "total_consumption": 4.777274,
+    "total_net": 10.218315
+  },
+  {
+    "hour": 17,
+    "total_production": 10.522588,
+    "total_consumption": 4.937479,
+    "total_net": 5.585109
+  },
+  {
+    "hour": 18,
+    "total_production": 6.829495,
+    "total_consumption": 16.935334,
+    "total_net": -10.105839
+  },
+  {
+    "hour": 19,
+    "total_production": 2.900096,
+    "total_consumption": 16.847032,
+    "total_net": -13.946936
+  },
+  {
+    "hour": 20,
+    "total_production": 1.919918,
+    "total_consumption": 16.988171,
+    "total_net": -15.068254
+  },
+  {
+    "hour": 21,
+    "total_production": 0.0,
+    "total_consumption": 17.7692,
+    "total_net": -17.7692
+  },
+  {
+    "hour": 22,
+    "total_production": 0.0,
+    "total_consumption": 16.900875,
+    "total_net": -16.900875
+  },
+  {
+    "hour": 23,
+    "total_production": 0.0,
+    "total_consumption": 4.095229,
+    "total_net": -4.095229
+  },
+  {
+    "hour": 0,
+    "total_production": 0.0,
+    "total_consumption": 4.955135,
+    "total_net": -4.955135
+  },
+  {
+    "hour": 1,
+    "total_production": 0.0,
+    "total_consumption": 4.949163,
+    "total_net": -4.949163
+  },
+  {
+    "hour": 2,
+    "total_production": 0.0,
+    "total_consumption": 5.232431,
+    "total_net": -5.232431
+  },
+  {
+    "hour": 3,
+    "total_production": 0.0,
+    "total_consumption": 5.258561,
+    "total_net": -5.258561
+  },
+  {
+    "hour": 4,
+    "total_production": 0.0,
+    "total_consumption": 5.292313,
+    "total_net": -5.292313
+  },
+  {
+    "hour": 5,
+    "total_production": 0.0,
+    "total_consumption": 4.268132,
+    "total_net": -4.268132
+  },
+  {
+    "hour": 6,
+    "total_production": 1.648933,
+    "total_consumption": 5.584488,
+    "total_net": -3.935555
+  },
+  {
+    "hour": 7,
+    "total_production": 3.640994,
+    "total_consumption": 14.90784,
+    "total_net": -11.266846
+  },
+  {
+    "hour": 8,
+    "total_production": 5.958828,
+    "total_consumption": 15.5548,
+    "total_net": -9.595973
+  },
+  {
+    "hour": 9,
+    "total_production": 10.242037,
+    "total_consumption": 14.897922,
+    "total_net": -4.655884
+  },
+  {
+    "hour": 10,
+    "total_production": 15.064711,
+    "total_consumption": 4.962402,
+    "total_net": 10.102309
+  },
+  {
+    "hour": 11,
+    "total_production": 20.143199,
+    "total_consumption": 4.786644,
+    "total_net": 15.356555
+  },
+  {
+    "hour": 12,
+    "total_production": 23.69303,
+    "total_consumption": 4.80234,
+    "total_net": 18.890691
+  },
+  {
+    "hour": 13,
+    "total_production": 25.540162,
+    "total_consumption": 5.046234,
+    "total_net": 20.493928
+  },
+  {
+    "hour": 14,
+    "total_production": 23.929665,
+    "total_consumption": 4.699962,
+    "total_net": 19.229703
+  },
+  {
+    "hour": 15,
+    "total_production": 20.311125,
+    "total_consumption": 4.604559,
+    "total_net": 15.706566
+  },
+  {
+    "hour": 16,
+    "total_production": 14.96404,
+    "total_consumption": 5.612389,
+    "total_net": 9.351651
+  },
+  {
+    "hour": 17,
+    "total_production": 11.309235,
+    "total_consumption": 5.238791,
+    "total_net": 6.070443
+  },
+  {
+    "hour": 18,
+    "total_production": 6.290895,
+    "total_consumption": 17.981477,
+    "total_net": -11.690582
+  },
+  {
+    "hour": 19,
+    "total_production": 3.771674,
+    "total_consumption": 17.781339,
+    "total_net": -14.009665
+  },
+  {
+    "hour": 20,
+    "total_production": 1.819332,
+    "total_consumption": 17.302747,
+    "total_net": -15.483416
+  },
+  {
+    "hour": 21,
+    "total_production": 0.0,
+    "total_consumption": 16.815973,
+    "total_net": -16.815973
+  },
+  {
+    "hour": 22,
+    "total_production": 0.0,
+    "total_consumption": 17.640659,
+    "total_net": -17.640659
+  },
+  {
+    "hour": 23,
+    "total_production": 0.0,
+    "total_consumption": 4.837092,
+    "total_net": -4.837092
+  }
+]
