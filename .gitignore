@@ -1,4 +1,4 @@
-﻿# Yerel sirlar (Groq API anahtari vb.)
+# Local secrets (Groq, etc.)
 .env
 **/.env
 python_mvp/.env
@@ -17,13 +17,11 @@ build/
 node_modules/
 python_mvp/__pycache__/
 
-# .NET
 **/bin/
 **/obj/
 *.user
 *.suo
 
-# Flutter / Android / iOS
 **/android/.gradle/
 **/android/captures/
 **/android/local.properties
